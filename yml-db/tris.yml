@@ -1,0 +1,11 @@
+---
+name: Tris
+description: "Détecteur de script-kiddies depuis 1664"
+bot: false
+lang:
+  - fr
+mastodonUrls:
+  - https://mamot.fr/@Tris
+runBy:
+  - https://projetarcadie.com/
+  - http://www.zdnet.fr/blogs/zapping-decrypte/
