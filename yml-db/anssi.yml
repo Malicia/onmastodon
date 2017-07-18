@@ -1,0 +1,10 @@
+---
+name: ANSSI
+description: "Compte officiel de l’Agence nationale de la sécurité des systèmes d'information (ANSSI)"
+bot: false
+lang:
+  - fr
+mastodonUrls:
+  - https://mastodon.etalab.gouv.fr/@ANSSI
+twitterUrls:
+  - https://twitter.com/ANSSI_FR
