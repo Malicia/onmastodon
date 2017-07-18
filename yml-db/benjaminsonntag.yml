@@ -1,0 +1,13 @@
+---
+name: Benjamin Sonntag
+description: "cofounder of La Quadrature du Net, CTO and founder of Octopuce, Free software activist, against corruption, traveller."
+bot: false
+lang:
+  - fr
+  - en
+mastodonUrls:
+  - https://mamot.fr/@vincib
+twitterUrls:
+  - https://twitter.com/vincib
+runBy:
+  - https://benjamin.sonntag.fr/fr
