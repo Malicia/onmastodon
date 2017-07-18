@@ -1,0 +1,12 @@
+---
+name: Arrêt sur Images [BOT]
+description: "Compte non officiel d'Arrêt sur Images"
+bot: true
+lang:
+  - fr
+mastodonUrls:
+  - https://mamot.fr/@arretsurimages
+twitterUrls:
+  - https://twitter.com/arretsurimages
+runBy:
+  - https://www.arretsurimages.net/
