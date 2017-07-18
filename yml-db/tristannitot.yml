@@ -1,0 +1,12 @@
+---
+name: Tristan Nitot
+description: "Hacktiviste, libriste, entrepreneur, fondateur puis président de Mozilla Europe, auteur de Surveillance://, blogueur. Motard."
+bot: false
+lang:
+  - fr
+mastodonUrls:
+  - https://framapiaf.org/@nitot
+twitterUrls:
+  - https://twitter.com/nitot?lang=fr
+runBy:
+  - http://standblog.org/blog/
