@@ -1,0 +1,10 @@
+---
+name: Tor Project
+description: "Tor Project: Blog RSS bot (unofficial)"
+bot: true
+lang:
+  - en
+mastodonUrls:
+  - https://social.undernet.uy/torproject
+twitterUrls:
+  - https://twitter.com/torproject
