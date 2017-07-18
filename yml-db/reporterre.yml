@@ -1,0 +1,12 @@
+---
+name: Reporterre [BOT]
+description: "Compte non officiel du journal Reporterre"
+bot: true
+lang:
+  - fr
+mastodonUrls:
+  - https://mamot.fr/@Reporterre
+twitterUrls:
+  - https://twitter.com/Reporterre
+runBy:
+  - https://reporterre.net/
