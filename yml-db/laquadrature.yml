@@ -1,0 +1,13 @@
+---
+name: La Quadrature du Net
+description: "Citizen advocacy group defending fundamental freedoms online. Information about Internet-related policy."
+bot: false
+lang:
+  - fr
+  - en
+mastodonUrls:
+  - https://mamot.fr/@LaQuadrature
+twitterUrls:
+  - https://twitter.com/laquadrature
+runBy:
+  - https://www.laquadrature.net/
