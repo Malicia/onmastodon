@@ -1,0 +1,12 @@
+---
+name: Benjamin Bayart
+description: "Vieux con des Internets"
+bot: false
+lang:
+  - fr
+mastodonUrls:
+  - https://mastodon.xyz/@bayartb
+twitterUrls:
+  - https://twitter.com/bayartb
+runBy:
+  - http://edgard.fdn.fr/cv.html
