@@ -1,0 +1,12 @@
+---
+name: Acrimed [BOT]
+description: "Compte non-officieil d'Action-CRItique-MEDias : observatoire des médias depuis 1995."
+bot: true
+lang:
+  - fr
+mastodonUrls:
+  - https://mamot.fr/@acrimed
+twitterUrls:
+  - https://twitter.com/acrimed_info
+runBy:
+  - http://www.acrimed.org/
