@@ -6,3 +6,7 @@ lang:
   - fr
 mastodonUrls:
   - https://fr.osm.social/@osm_fr
+twitterUrls:
+  - https://twitter.com/OSM_FR
+runBy:
+  - http://openstreetmap.fr/
